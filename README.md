@@ -1,4 +1,4 @@
-theme:minimal
+theme: minimal
 
 - 👋 Hi, I’m Valery Pleshkov
 - 👀 I’m interested in cybersecurity, software development (python), computer vision, machine learning and unmanned aerial vehicle
