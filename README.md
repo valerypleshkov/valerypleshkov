@@ -1,6 +1,6 @@
 
-Valery Pleshkov
-Interested in cybersecurity, software development (python), computer vision, machine learning and unmanned aerial vehicle
+hello Valery Pleshkov
+wave Interested in cybersecurity, software development (python), computer vision, machine learning and unmanned aerial vehicle
 Currently learning DevSecOps and SDLC
 Looking to collaborate on 
 How to reach me:
