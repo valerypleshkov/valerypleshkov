@@ -1,9 +1,9 @@
 
-- 👋 Hi, I’m Valery Pleshkov
-- 👀 I’m interested in cybersecurity, software development (python), computer vision, machine learning and unmanned aerial vehicle
-- 🌱 I’m currently learning DevSecOps and SDLC
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me:
+Valery Pleshkov
+Interested in cybersecurity, software development (python), computer vision, machine learning and unmanned aerial vehicle
+Currently learning DevSecOps and SDLC
+Looking to collaborate on 
+How to reach me:
 E-mail: valery.pleshkov@gmail.com
 Skype: valery.pleshkov
 
